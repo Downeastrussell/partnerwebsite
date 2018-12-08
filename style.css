@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    flex-wrap: flex;
+}
+
+.name{
+    text-align: center;
+    font-size: 6rem;
+    background-color: blue;
+    color: brown;
+}
+
+section{
+    background-color: brown;
+    text-align: center;
+    font-size: 2rem;
+    
+}
